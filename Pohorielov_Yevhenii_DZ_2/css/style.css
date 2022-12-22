@@ -1,0 +1,93 @@
+table{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+    margin: auto;
+    width: 80px;
+    height: 80px;
+}
+
+.Text_max{
+    font-size: 15px;
+}
+
+.Text_min{
+    font-size: 10px;
+}
+
+.Text_namber{
+    font-size: 10px;
+}
+
+td{
+    border-width: 7px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    padding: 2px;
+    padding-left: 1px;
+    width: 80px; 
+    height: 80px;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+}
+
+.White_text{
+    color: #ffffff;
+    text-align: center;
+}
+
+.Hydrogen{
+    background: #487BDE;
+}
+
+.Lithium, .Sodium, .Potassium, .Rubidium, .Caesium, .Francium{
+    background: #ff4343;
+}
+
+.Berylliu, .Magnesium, .Calcium, .Strontium, .Barium, .Radium{
+    background: #FF7043;  
+}
+
+.Scandium, .Titanium, .Vanadium, .Vanadium, .Manganese, .Iron, .Cobalt, .Nickel,
+.Copper, .Zinc, .Cadmium, .Silver, .Palladium, .Rhodium, .Ruthenium, .Technetium,
+.Technetium, .Niobium, .Zirconium, .Yttrium, .Hafnium, .Tantalum, .Tungsten,
+.Rhenium, .Osmium, .Iridium, .Platinum, .Gold, .Mercury, .Copernicium, .Roentgenium,
+.Darmstadtium, .Meitnerium, .Hassium, .Bohrium, .Seaborgium, .Dubnium, .Rutherfordium, 
+.Chromium, .Molybdenum{
+    background: #FF8A00;
+}
+
+.Lanthanides, .Lanthanum, .Cerium, .Praseodymium, .Neodymium, .Promethium, .Samarium,
+.Europium, .Gadolinium, .Terbium, .Dysprosium, .Holmium, .Erbium, .Thulium, .Ytterbium, .Lutetium{
+    background: #699797;
+}
+
+.Actinides, .Actinium, .Thorium, .Protactinium, .Uranium, .Neptunium, .Plutonium, .Americium, .Curium, .Berkelium,
+.Californium, .Einsteinium, .Fermium, .Mendelevium, .Nobelium, .Lawrencium{
+    background: #976995;
+}
+
+.Aluminium, .Gallium, .Indium, .Thallium, .Nihonium, .Tin, .Lead, .Flerovium, .Bismuth, .Moscovium, .Livermorium{
+    background: #14AE5C;
+}
+
+.Boron, .Silicon, .Germanium, .Arsenic, .Antimony, .Tellurium, .Polonium{
+    background: #1B99C1;
+}
+
+.Carbon, .Nitrogen, .Oxygen, .Phosphorus, .Sulfur, .Selenium{
+    background: #2D68DA;
+}
+
+.Fluorine, .Chlorine, .Bromine, .Iodine, .Astatine, .Tennessine{
+    background: #6448FF;
+}
+
+
+.Helium, .Neon, .Argon, .Krypton, .Xenon, .Radon, .Oganesson{
+    background: #9328FE;
+}
