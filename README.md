@@ -6,3 +6,6 @@ https://www.figma.com/file/nOcnr4C8gQpNpWOxI0UuOZ/ITEA-HW-1?node-id=0%3A1&t=xeVp
 
 https://www.figma.com/file/rQXIA6RTseuyU1H3u8MPlK/HW-2-ITEA?node-id=12%3A47&t=j2qVmxfqm67fM6do-0
 
+3.Make a website according to the layout!
+
+https://www.figma.com/file/dX9aLjtEQ1MypcfUU0Pcx4/HW-ITEA?node-id=0%3A1&t=DjYAEVtSgqvpPcUt-0
