@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Inder&family=Inter:wght@400;700&family=Montserrat:wght@600;800&display=swap');
+
+body{
+   margin: 0;
+   font-family: 'Inter', sans-serif;
+}
+
+header{
+   margin: 0 auto;
+}
+
+.logo {
+   display: block;
+   color: #0bbbd3;
+   text-align: center;
+   text-decoration: none;
+   font-size: 48px;
+   padding: 28px 0;
+}
+
+.logo > span{
+   color: black;
+}
+
+.banner{
+   background-image: url("../img/bg.jpeg");
+   background-size: 100px 100px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+   margin: 0 auto;
+}
+
+.banner > div{
+      background-image: url("../img/flag.png");
+      background-repeat: no-repeat;
+      color: white;
+      font-size: 64px;
+      padding: 24% 12%;
+      background-position: 6% 53%;
+}
+
+h1{
+   padding: 41px 0px 121px 76px;
+   font-size: 48px;
+   font-family: 'Inter', sans-serif;
+}
+
+.under-text_h1{
+   margin: 16px 0px 0px 0px;
+   width: 361px;
+   height: 5px;
+   background-color: #33B8F1;
+}
+
+.cards{
+   max-width: 1200px;
+   margin: 0 auto;
+}
+
+.card{
+   width: 30%;
+   display: inline-block;
+   vertical-align: top;
+   box-shadow: 2px 2px 2px 2px rgb(197, 197, 197);
+   height: 400px;
+   border-radius: 30px;
+}
+
+.card__img{
+   width: 100%;
+}
+
+.margin-left-right{
+   margin-right: 4.5%;
+   margin-left: 4.5%;
+}
+
+h3, p{
+   text-align: center;
+}
+
+h2{
+   text-align: center;
+   padding: 59px 0px 0px 0px;
+   font-size: 48px;
+   font-family: 'Inter', sans-serif;
+   margin: 59px 0px 0px 0px;
+}
+
+.under-text_h2{
+   margin: 16px auto 0;
+   width: 361px;
+   height: 5px;
+   background-color: #33B8F1;
+}
+
+.img__love{
+   display: block;
+   text-align: center;
+}
+
+.Botom{
+   text-align: center;
+   color: white;
+   font-size: 48px;
+   font-weight: 700;
+   background: #33ADF1;
+   width: 430px;
+   height: 74px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   text-decoration: none;
+   line-height: 74px;
+}
+
+.fon__blu{
+   margin: 176px 0px 0px 0px;
+   position: absolute;
+   width: 1900px;
+   height: 450px;
+   background: #0A2DA9;
+}
+
+.logo__fon{
+   display: block;
+   color: #0bbbd3;
+   text-align: center;
+   text-decoration: none;
+   font-size: 64px;
+   margin: 49px;
+}
+
+a > span{
+   color: white;   
+}
+
+.mailto, .tel{
+   display: block;
+   color: white;
+   margin: 49px;
+   font-size: 32px;
+   text-align: center;
+   color: #353949;
+   text-decoration: none;
+   font-family: 'Inder';
+}
+
+.social{
+   display: block;
+   text-align: center;
+   padding: 0px 0px 26px 0px;
+   text-align: center;
+}
+
+.twitter{
+   background-image: url(../icon/twitter.png);
+   background-position: center;
+   background-color: #0931BF;
+   background-repeat: no-repeat;
+   width: 68px;
+   height: 68px;
+   border-radius: 50%;
+   display: inline-block;
+   margin: 0px 30px;
+}
+
+.telegram{
+   background-image: url(../icon/telegram.png);
+   background-position: center;
+   background-color: #0931BF;
+   background-repeat: no-repeat;
+   width: 68px;
+   height: 68px;
+   border-radius: 50%;
+   display: inline-block;
+   margin: 0px 30px;
+}
+
+.instagram{
+   background-image: url(../icon/instagram.png);
+   background-position: center;
+   background-color: #0931BF;
+   background-repeat: no-repeat;
+   width: 68px;
+   height: 68px;
+   border-radius: 50%;
+   display: inline-block;
+   margin: 0px 30px;
+}
+
+.facebook{
+   background-image: url(../icon/facebook.png);
+   background-position: center;
+   background-color: #0931BF;
+   background-repeat: no-repeat;
+   width: 68px;
+   height: 68px;
+   border-radius: 50%;
+   display: inline-block;
+   margin: 0px 30px;
+}
