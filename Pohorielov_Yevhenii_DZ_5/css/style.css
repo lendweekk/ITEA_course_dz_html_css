@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+   margin-left: 50%;
+   transform: scale(200%)
+}
+
+.gradient{
+   background: linear-gradient(180deg, rgba(6, 10, 64, 0) 17.69%, rgba(6, 10, 64, 0.75) 84.92%);
+   position: absolute;
+   width: 143px;
+   height: 78px;
+   bottom: 0px;
+}
+
+h1{
+   position: absolute;
+   width: 221.63px;
+   height: 33.94px;
+   font-family: 'Josefin Sans';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 29.8681px;
+   line-height: 34px;
+   text-align: center;
+   text-transform: capitalize;
+   color: #020953;
+}
+
+h2{
+   position: absolute;
+   width: 144.59px;
+   height: 33.94px;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 10.8611px;
+   line-height: 34px;
+   text-transform: capitalize;
+   color: #060A3F;
+   margin: 50px 0px;
+}
+
+.cruise{
+   background-image: url("../img/cruise.jpg");
+   position: absolute;
+   width: 143px;
+   height: 160px;
+   margin: 90px 0px;
+   background-size: 100%;
+}
+
+.palace{
+   background-image: url("../img/palace.jpg");
+   position: absolute;
+   width: 143px;
+   height: 160px;
+   margin: 90px 0px 0px 150px;
+   background-size: 150%;
+   background-position: center;
+}
+
+.fisherman{
+   background-image: url("../img/fisherman.jpg");
+   position: absolute;
+   width: 143px;
+   height: 160px;
+   margin: 90px 0px 0px 300px;
+   background-size: 100%;
+   background-position: center;
+}
+
+.tower{
+   background-image: url("../img/tower.jpg");
+   position: absolute;
+   width: 143px;
+   height: 160px;
+   margin: 270px 0px;
+   background-size: 170%;
+   background-position: center;
+}
+
+.liman{
+   background-image: url("../img/liman.jpg");
+   position: absolute;
+   width: 143px;
+   height: 160px;
+   margin: 270px 0px 0px 150px;
+   background-size: 200%;
+   background-position: center;
+}
+
+.Fon{
+   background-image: url("../img/Fon.jpg");
+   position: absolute;
+   width: 143px;
+   height: 160px;
+   margin: 270px 0px 0px 300px;
+   background-size: 170%;
+   background-position: center;
+}
+
+.text, .dollar{
+   font-family: 'Roboto';
+   font-size: 8px;
+   color: white;
+   text-align: center;
+   margin: 0px;
+}
+
+.dollar{
+   padding: 130px 0px 0px 0px;
+   color: #FFC800;
+   display: block;
+}
+
+.animation_text1{
+   margin-bottom: 25px;
+   position: relative;
+   top:0px;
+   transition-duration: 1s;
+}
+
+div:hover .animation_text1{
+   position: relative;
+   top: 180px;
+}
+
+.animation_text2{
+   position: relative;
+   bottom:0px;
+   transition-duration: 1s;
+}
+
+div:hover .animation_text2{
+   margin-bottom: 25px;
+   position: relative;
+   bottom: 180px;
+}
+
+header{
+   text-align: center;
+   overflow: hidden;
+}
+
+header span{
+   display: inline-block;
+   transform: scale(3);
+   transition-duration: 0.5s; 
+}
+
+header:hover span{
+   transform: scale(1); 
+   color: black
+}
