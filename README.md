@@ -17,3 +17,12 @@ https://www.figma.com/file/dX9aLjtEQ1MypcfUU0Pcx4/HW-ITEA?node-id=0%3A1&t=DjYAEV
 4.Make a website according to the layout!
 
 https://www.figma.com/file/9xtXxUQNiXHHNwO0olyitL/Ukraine-lesson-3-pro?node-id=1%3A2&t=RQyuxvgXdRocNRuE-0
+
+5.Make a site according to the layout with the conditions!
+
+The text at the bottom of each picture must appear when you hover your cursor over the image!
+
+When you hover your mouse over an empty field, the top two pictures should swap 
+with the ones below!
+
+https://www.figma.com/file/Q4lJjzzMugi6e0HZR0CK4o/ITEA-5?node-id=0%3A1
