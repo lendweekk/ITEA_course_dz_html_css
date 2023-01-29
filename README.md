@@ -1,3 +1,7 @@
+Здесь можно посмотреть путь моего развития с полного нуля в ходе прохождения курса по Frontend. В конце курса я уже вижу что в начале было много ошибок но я специально их не переделывал и оставил как есть!
+
+Here you can see the path of my development from scratch during the Frontend course. At the end of the course, I can already see that there were a lot of mistakes in the beginning, but I purposely didn't rework them and left them as is!
+
 1.Make the site as per the layout! 
 
 https://www.figma.com/file/nOcnr4C8gQpNpWOxI0UuOZ/ITEA-HW-1?node-id=0%3A1&t=xeVp0ZIoCtmWgMak-0
