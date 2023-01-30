@@ -26,3 +26,7 @@ When you hover your mouse over an empty field, the top two pictures should swap
 with the ones below!
 
 https://www.figma.com/file/Q4lJjzzMugi6e0HZR0CK4o/ITEA-5?node-id=0%3A1
+
+6.Creating a Robot for the layout 
+
+https://www.figma.com/file/ggKwSrAYxcg8l0XNJ6uWb1/ITEA-(CW-HW)?node-id=0%3A58
