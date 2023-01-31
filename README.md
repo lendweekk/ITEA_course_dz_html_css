@@ -30,3 +30,7 @@ https://www.figma.com/file/Q4lJjzzMugi6e0HZR0CK4o/ITEA-5?node-id=0%3A1
 6.Creating a Robot for the layout 
 
 https://www.figma.com/file/ggKwSrAYxcg8l0XNJ6uWb1/ITEA-(CW-HW)?node-id=0%3A58
+
+7.Make the site as per the layout!
+
+https://www.figma.com/file/TlBwQH97Pbb4nCpBa3AOiU/ITEA-7?node-id=0%3A1
