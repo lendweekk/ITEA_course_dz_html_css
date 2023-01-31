@@ -1,0 +1,43 @@
+.header__nav a:hover {
+   color: #FFB742;
+   transition: all 0.2s;
+}
+
+.card__style:hover{
+   filter: drop-shadow(10px 10px 51px rgba(0, 0, 0, 0.25));
+   background: linear-gradient(94.3deg, #FFB742 0%, rgba(255, 123, 66, 0.76) 99.33%);
+   cursor: no-drop;
+   color:black;
+}
+
+.card__style:hover div{
+   color:black;
+}
+
+.fon_skill:hover{
+   background: rgba(255, 183, 66, 0.5);
+   border-radius: 1rem;
+   cursor: grab;
+}
+
+.par:hover{
+   background: #FFB742;
+   border-radius: 3px;
+   padding: 5px 20px;
+   transition: all 0.2s;
+}
+
+.works__imag:hover{
+   box-shadow: 5px 5px 30px rgb(163, 163, 163);
+   border-radius: .5rem;
+   transition: all 0.2s;
+   cursor: no-drop;
+}
+
+.testimonials_blok__white:hover{
+   box-shadow: 5px 5px 30px rgb(163, 163, 163);
+   border-radius: .5rem;
+   border-radius: 1rem;
+   transition: all 0.2s;
+   cursor: no-drop;
+}
