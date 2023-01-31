@@ -1,0 +1,539 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500;600;700&display=swap');
+
+:root {
+    font-size: 10px;
+    color: #FFFFFF;
+}
+
+body {
+    background-color: #1E1E1E;;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    color:#FFFFFF;
+}
+
+/*Шапка сайта*/
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__nav {
+    display: flex;
+    font-size: 1.8rem;
+    list-style: none;
+    width: 30%;
+    justify-content: space-between;
+}
+
+
+.header__nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header__btn {
+    display: inline-block;
+    padding: 1rem;
+    width: 12rem;
+    font-size: 1.8rem;
+    background-color: #FFB742;
+    border-radius: 5rem;
+    text-decoration: none;
+    color: #212529;
+    box-sizing: border-box;
+    align-self:center;
+    text-align: center;
+}
+
+/*Приветствие*/
+
+.title{
+    text-align: center;
+    margin: 10.8rem 0px 0px 0px;
+}
+
+.title__text__1{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 51px;
+    margin: 0px;
+}
+
+.title__bansal{
+    color:#FFB742;
+}
+
+.title__text__2{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 91px;
+    margin: 0px;
+}
+
+.title__text__3{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 51px;
+}
+
+/*Опыт и клиенты*/
+
+.card{
+    display: flex;
+    justify-content: center;
+    margin: 15rem 0rem 20rem 0rem;
+}
+
+.card__style{
+    background: rgba(56, 62, 69, 0.44);
+    border-radius: 10px;
+    width: 416px;
+    height: 120px;
+    left: 72px;
+    top: 786px;
+    margin: 30px;
+    text-decoration: none;
+}
+
+.card__icon{
+    margin: 3rem 0rem 3rem 4rem;
+}
+
+.card__namber{
+    text-transform: capitalize;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFB742;
+    position:relative;
+    bottom: 11vh;
+    left: 3vh;
+}
+
+.card__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 31px;
+    text-align: center;
+    position:relative;
+    bottom: 11vh;
+    left: 3vh;
+}
+
+.chevron{
+    display: flex;
+    justify-content: end;
+    position:relative;
+    bottom: 15vh;
+    right: 3vh;
+}
+
+/*Про себя*/
+
+.about{
+    display: flex;
+    justify-content: center;
+}
+
+.about__img{
+    position: relative;
+    right: 3rem;
+}
+
+.about__btn{
+    width: 148px;
+    height: 42px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 50px;
+}
+
+.about__btn__text{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FFB742;
+    text-align: center;
+    position: relative;
+    top: .6rem;
+}
+
+.about__litle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 48px;
+    line-height: 30px;
+    margin: 1rem 0 5rem 0;
+}
+
+.about__text{
+    width: 68.2rem;
+    height: 25rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.about__header__btn{
+    display: inline-block;
+    padding: 1rem;
+    width: 12rem;
+    font-size: 1.8rem;
+    background-color: #FFB742;
+    border-radius: 5rem;
+    text-decoration: none;
+    color: #212529;
+    box-sizing: border-box;
+    align-self:center;
+    text-align: center;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+/*Скилы в виде картинок*/
+
+.skills{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin: 20rem 0rem;
+}
+
+.skills__position{
+    width: 70rem;
+}
+
+.skills__btn{
+    width: 148px;
+    height: 42px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 50px;
+}
+
+.skills__btn__text{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FFB742;
+    text-align: center;
+    position: relative;
+    top: .6rem;
+}
+
+.skills__litle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 30px;
+    margin: 3rem 0rem;
+}
+
+.skills__text{
+    width: 68rem;
+    height: 15rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.skills__header__btn{
+    display: inline-block;
+    padding: 1rem;
+    width: 12rem;
+    font-size: 1.8rem;
+    background-color: #FFB742;
+    border-radius: 5rem;
+    text-decoration: none;
+    color: #212529;
+    box-sizing: border-box;
+    align-self:center;
+    text-align: center;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.fon_skill__1{
+    display:flex;
+}
+
+.fon_skill{
+    background-image:url(../img/fon_skill.svg);
+    width: 79px;
+    height: 82px;
+    margin: 1rem;
+    text-align: center;
+    position: relative;
+    top: 3rem;
+}
+
+.fon_skill__2{
+    position: relative;
+    top: 1.7rem;
+}
+
+/*Мои работы*/
+
+.works{
+    display: flex;
+    justify-content:center;
+    margin: 20rem 0 0 -15rem;
+}
+
+.works__btn{
+    width: 148px;
+    height: 42px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 50px;
+    position: relative;
+    bottom: 3rem;
+    left: 24rem;
+}
+
+.works__litle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 30px;
+    margin: 2rem 0rem;
+}
+
+.works__btn__text{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FFB742;
+    text-align: center;
+    position: relative;
+    bottom: 1.3rem;
+}
+
+.works__litle__2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.par{
+    margin: 3rem;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+
+.works__img{
+    display: flex;
+    margin: 1% 20%;
+    width: 100rem;
+}
+
+
+.works__imag{
+    margin: 0rem 2rem 2rem 2rem;
+    position: relative;
+    right: 9rem;
+}
+
+/*отзывы*/
+
+.testimonials{
+    display: block;
+    width: 121.9rem;
+    height: 15rem;
+    position: relative;
+    left: 82rem;
+    margin-top: 20rem;
+    width: 0rem;
+}
+
+.testimonials__btn{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 192px;
+    height: 42px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 50px;
+    width: 19rem;
+}
+
+.testimonials__btn__text{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FFB742;
+    text-align: center;
+    position: relative;
+    bottom: 1.3rem;
+    left: 2rem;
+    width: 0rem;
+}
+
+.testimonials__litle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39.2896px;
+    line-height: 46px;
+    position: relative;
+    right: 8rem;
+    margin-top: 0;
+    width: max-content;
+}
+
+.testimonials_blok{
+    display: flex;
+    justify-content: center;
+}
+
+.testimonials_blok__white{
+    width: 37.8rem;
+    height: 45.5rem;
+    background: #FFFFFF;
+    border-radius: 1rem;
+    margin: 1rem 0rem 0rem 5rem;
+    position: relative;
+    right: 4rem;
+}
+
+.vector{
+    margin: 6rem 0 0 3rem;
+}
+
+.testimonials_blok__text{
+    color:black;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    text-align:left;
+    margin: 1rem 2rem 2rem 3rem;
+}
+
+.testimonials__foto__positions{
+    display: flex;
+}
+
+.foto{
+    margin: 2rem 2rem 2rem 3rem;
+}
+
+.khushi{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.designer{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 34px;
+    color: #000000;
+    position: relative;
+    top: 4rem;
+    right: 14rem;
+}
+
+/*Подвал*/
+
+.futer{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #1C1C1C;
+    width: 100%;
+    height: 40rem;
+    left: 0rem;
+    top: 434rem;
+    margin-top: 30rem;
+}
+
+.futer__text__position{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10rem;
+}
+
+.kartik{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 100%;
+    color: #FFB742;
+    text-decoration: none;
+}
+
+.kartik__text{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    color: #D4D4D4;
+}
+
+.useful{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21.5865px;
+    line-height: 32px;
+    color: #F5FBF2;
+    margin-top: 0rem;
+    
+}
+
+.useful__text{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17.9888px;
+    line-height: 36px;
+    color: #7B7B7B;
+    text-decoration: none;
+}
