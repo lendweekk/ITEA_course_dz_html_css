@@ -1,4 +1,4 @@
-Здесь можно посмотреть путь моего развития с полного нуля в ходе прохождения курса по Frontend. В конце курса я уже вижу что в начале было много ошибок но я специально их не переделывал и оставил как есть!
+Здесь можно посмотреть путь моего развития с полного нуля в ходе прохождения курса по Frontend. В конце курса я уже вижу что в начале было много ошибок но я специально их не переделывал и оставил как есть что бы можно было видеть развитие!
 
 Here you can see the path of my development from scratch during the Frontend course. At the end of the course, I can already see that there were a lot of mistakes in the beginning, but I purposely didn't rework them and left them as is!
 
